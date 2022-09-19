@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Łukasz Wojsz
 - 👀 I’m interested in programming, creating websites, music and video games
-- 🌱 I’m currently learning HTML5, CSS3, JS, jQuery
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML5, CSS3, SCSS, JS, jQuery, Webpack
 - 📫 How to reach me:
 -   email: lukasz.wojsz94@gmail.com
     
